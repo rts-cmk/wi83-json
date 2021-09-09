@@ -18,7 +18,7 @@ Skriv fornavnene fra JSON-objektet ud i konsollen.
 
 ## Øvelse 3
 
-Brug en løkke til at skrive alle fornavne of efternavne fra JSON-objektet ud i konsollen.
+Brug en løkke til at skrive alle fornavne og efternavne fra JSON-objektet ud i konsollen.
 
 ## Øvelse 4
 
